@@ -1,2 +1,3 @@
-/              HomeR GET
-/add/#Int/#Int AddR  GET
+/    HomeR GET
+/ola/#Text OlaR GET
+/soma/#Int/#Int SomaR GET

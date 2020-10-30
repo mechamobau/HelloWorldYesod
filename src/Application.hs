@@ -8,7 +8,10 @@ module Application where
 import Foundation
 import Yesod.Core
 
-import Add
+import Data.Text
+
 import Home
+
+import Calculadora
 
 mkYesodDispatch "App" resourcesApp
